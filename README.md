@@ -12,4 +12,4 @@ This is a terminal-based Snake and Ladder game written in C. The game enhances t
 - All visual elements and interactions are text-based.
 ## Conclusion
 This project is ideal for demonstrating core C programming concepts including file handling, modular
-code structure, game logic, and simple AI implementation, all within a terminal-based environment.
+code structure, game logic, and simple AI implementation, all within a terminal-based environment. 
